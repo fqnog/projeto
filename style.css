@@ -41,7 +41,6 @@ body * {
   padding: 0 24px;
 }
 
-/* porfile */
 #profile {
   text-align: center;
   padding: 24px;
@@ -58,7 +57,6 @@ body * {
   margin-top: 8px;
 }
 
-/* switch */
 #switch {
   position: relative;
   width: 64px;
